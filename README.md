@@ -13,3 +13,5 @@ https://raw-gh.gcdn.mirr.one/
 https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
 
 https://gitlab.com/alantang1977/mao/-/raw/main/m
+
+互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，自用请勿宣传。
